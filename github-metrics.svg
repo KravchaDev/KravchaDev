@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -86,13 +86,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.09564548118766" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="389.09564548118766" y="0" width="26.28104555815399" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="415.37669103934167" y="0" width="23.652941002338594" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="439.02963204168026" y="0" width="6.617921316716497" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="445.64755335839675" y="0" width="5.746425505461651" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="451.3939788638584" y="0" width="4.834078328054232" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="456.2280571919126" y="0" width="3.7719428080873865" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.0121719743304" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="396.0121719743304" y="0" width="26.74821487752704" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.76038685185745" y="0" width="15.896477960893014" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="438.6568648127505" y="0" width="6.735560844807328" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.3924256575578" y="0" width="5.848573408454099" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="451.24099906601185" y="0" width="4.9200084360218135" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="456.16100750203367" y="0" width="3.838992497966316" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -104,7 +104,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>84.59%</div>
+                                <div>86.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,7 +115,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>5.14%</div>
+                                <div>3.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,7 +126,7 @@
                                 CoffeeScript
                             </div>
                             <small>
-                                <div>1.25%</div>
+                                <div>1.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -137,7 +137,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>0.82%</div>
+                                <div>0.83%</div>
                             </small>
                         </div>
                     </section>
@@ -150,7 +150,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>5.71%</div>
+                                <div>5.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -161,7 +161,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>1.44%</div>
+                                <div>1.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -172,7 +172,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>1.05%</div>
+                                <div>1.07%</div>
                             </small>
                         </div>
                     </section>
@@ -1299,7 +1299,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            76 Commits
+                            79 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
