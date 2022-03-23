@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="751" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="716" class="">
     <defs>
         <style/>
     </defs>
@@ -65,9 +65,8 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Beginner computer science engineer
-
-"There is no sense of laziness in me, I see only goals"</div>
+                        <div class="introduction">
+                        </div>
                     </section>
                 </div>
             </section>
