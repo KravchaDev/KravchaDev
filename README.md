@@ -17,6 +17,9 @@ ____
 _____
 ##### github:
 [![GitHub Streak](https://streak-stats.demolab.com?user=kravchadev&locale=ru&ring=716B4B91&fire=716B4B&currStreakLabel=493628&currStreakNum=493628&sideNums=C58B69&sideLabels=C58B69&dates=C4AE96)](https://git.io/streak-stats)
+
+![](https://img.shields.io/github/stars/kravchadev?color=C3AE99&label=Звезд&logo=github&style=for-the-badge)
+
 ##### leetcode:
 [![KnlnKS's LeetCode
 stats](https://leetcode-stats-six.vercel.app/api?username=KravchaDev)](https://github.com/KravchaDev/leetcode)
