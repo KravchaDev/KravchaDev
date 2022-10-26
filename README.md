@@ -1,4 +1,3 @@
-![](https://habrastorage.org/webt/fy/zb/rn/fyzbrnl2ebif0xa51ombui737uc.png)
 _____
 ###### языки, которые использую в своих проектах:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=706B4D) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white&color=806240) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=BE8D6D) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=493628&color=C3AE99) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=493628&color=D9DAD4)
